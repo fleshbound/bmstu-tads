@@ -1,0 +1,81 @@
+in.txt
+Matveeva
+Vasilev
+Isaeva
+Popova
+Petrov
+Antonov
+Aleksandrova
+Sobol
+Pavlov
+Naoumova
+Maksimov
+Ignatieva
+Filippov
+Bogdanova
+Kozlov
+Isaeva
+Bogomolov
+Sokolovskaya
+Bogomolov
+Kuznetsova
+Orlova
+Kozlov
+Bogomolova
+Konstantinova
+Ivanov
+Rasputina
+Volkova
+Markova
+Ivanova
+Maksimov
+Sobol
+Medved
+Krupina
+Zima
+Pavlova
+Borisov
+Sokolov
+Zima
+Putina
+Aleksandrov
+| Matveeva           | Katenka       | 89227746128 | 285382 Omsk, Komi Republic                     | Personal |                 12 2 1991 |
+| Vasilev            | Dimitri       | 89533404297 | 773148 Tver, Vologda region                    | Official |    MFO SantekhAvto: Operator |
+| Isaeva             | Liubov        | 89663768586 | 530 746747 Irkutsk, Oryol regio                | Official | VodMicroLenSnab Company LLC: Race driver |
+| Popova             | Evpraksiya    | 89652499954 | 925194 Penza, Kamchatka region                 | Personal |                 17 3 1967 |
+| Petrov             | Saveli        | 89737902744 | 737196 Izhevsk, Komi Republic                  | Personal |                 19 4 1945 |
+| Antonov            | Isay          | 89073624125 | 259058 Saratov, Chukotka Autonomous Okru       | Official | OJSC TelecomFlotRadio: Conductor |
+| Aleksandrova       | Tatiana       | 89267371571 | 584686 Izhevsk, Republic of Mordovi            | Personal |                  6 2 1989 |
+| Sobol              | Zhannochka    | 89855175763 | 722139 Orenburg, Kursk region                  | Personal |                 12 8 1963 |
+| Pavlov             | Zinoviy       | 89944775402 | 942967 Saratov, Novgorod region                | Personal |                 24 5 1982 |
+| Naoumova           | Patya         | 89577726929 | 810745 Moscow, Republic of Tatarsta            | Personal |                 24 10 1974 |
+| Maksimov           | Misha         | 89983666040 | 638289 Omsk, Murmansk region                   | Official | MCC TverVectorRemSbyt: Dancer |
+| Ignatieva          | Aksinya       | 89617664934 | 115800 Belgorod, Kursk region                  | Personal |                 20 8 1947 |
+| Filippov           | Ermolai       | 89155233281 | 396318 Ivanovo, Altai Territory                | Official | CJSC VostokGarageFinance: Bookbinder |
+| Bogdanova          | Fyokla        | 89671413683 | 387995 St. Petersburg, Belgorod regio          | Personal |                 18 8 1977 |
+| Kozlov             | Valentin      | 89780411679 | 856718 Saratov, Chukotka Autonomous Okru       | Official | LLC Montazh Company: flight attendant |
+| Isaeva             | Anzhelika     | 89490437571 | 955343 Ufa, Republic of Buryati                | Personal |                 11 6 1947 |
+| Bogomolov          | Tatiana       | 89426658441 | 592961 Perm, Kursk region                      | Official |            OOO Sib: System Administrator |
+| Sokolovskaya       | Fedora        | 89945602038 | 356848 Lipetsk, Republic of Mordovi            | Personal |                 30 4 1986 |
+| Bogomolov          | Varfolomei    | 89724768717 | 418089 Ulyanovsk, Tomsk region                 | Official |    MFO RadioDesign: Andrologist |
+| Kuznetsova         | Dominika      | 89070542161 | 799856 Yaroslavl, Smolensk region              | Personal |                 18 6 1978 |
+| Orlova             | Zlata         | 89848396522 | 482635 Tyumen, Koryak Autonomous Okru          | Personal |                 15 3 1944 |
+| Kozlov             | Bronislav     | 89448126662 | 709957 Khabarovsk, Tomsk region                | Official | PJSC TelecomInzhLenProf: chemical engineer |
+| Bogomolova         | Taisia        | 89766372230 | 157615 Irkutsk, Republic of Karachay-Cherkessi | Personal |                 13 7 1985 |
+| Konstantinova      | Yevdokiya     | 89648135394 | 894591 Volgograd, Evenk Autonomous Okru        | Personal |                 18 10 1989 |
+| Ivanov             | Mark          | 89361269493 | 328190 Magnitogorsk, Tyva Republic             | Personal |                  3 9 1963 |
+| Rasputina          | Olesya        | 89782344028 | 885028 Orenburg, Belgorod region               | Official | LLC DesignTyazhBashkirBank: Diver |
+| Volkova            | Nata          | 89876863241 | 548093 Kazan, Republic of Karachay-Cherkessi   | Personal |                 26 9 1999 |
+| Markova            | Tanya         | 89159457777 | 87973 Volgograd, Evenk Autonomous Okru         | Personal |                 31 8 1980 |
+| Ivanova            | Yuli          | 89534736044 | 58722 Tver, Tyva Republic                      | Official | CJSC TyazhSeverSoftMash: Balloonist |
+| Maksimov           | Nil           | 89078590515 | 229750 Yaroslavl, Republic of Tatarsta         | Personal |                 12 9 1972 |
+| Sobol              | Sergei        | 89800528674 | 581027 Yaroslavl, Komi Republic                | Personal |                 22 6 1944 |
+| Medved             | Robert        | 89790831593 | 364720 Tyumen, Nizhny Novgorod regio           | Official |          MFO Metal: carpenter |
+| Krupina            | Iona          | 89812155076 | 777691 Penza, Komi Republic                    | Official |          ZAO Khmel: Estimator |
+| Zima               | Svetlana      | 89990736550 | 69 126160 Volgograd, Republic of Bashkortost   | Official |         IWC Pisces: Dissector |
+| Pavlova            | Margarita     | 89449597844 | 808770 Barnaul, Moscow region                  | Official |   ICC InfoSeverLen: Insurance agent |
+| Borisov            | Evgeni        | 89873332797 | 29027 Tomsk, Republic of Adyge                 | Personal |                  5 8 1975 |
+| Sokolov            | Faddei        | 89754398840 | 270806 Nizhny Novgorod, Tyumen regio           | Personal |                 18 11 1978 |
+| Zima               | Fyodor        | 89666537794 | 234724 Kemerovo, Chukotka Autonomous Okru      | Personal |                 30 3 1972 |
+| Putina             | Ksyusha       | 89825809560 | 275371 Chelyabinsk, Ulyanovsk region           | Official |    VectorOrion LLC: Repairer |
+| Aleksandrov        | Ioann         | 89040306924 | 918102 Tomsk, Volgograd region                 | Personal |                 14 1 1988 |
